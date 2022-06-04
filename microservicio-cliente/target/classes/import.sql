@@ -1,0 +1,2 @@
+insert into cliente(apellido_cliente,direccion,nombre_cliente,nro_celular)values("Gonzales Prada","Av Peru 123","Juan Jose",94312541)
+insert into cliente(apellido_cliente,direccion,nombre_cliente,nro_celular)values("Rivas Plata","Av arg 123","Ernesto Julian",932143241)
